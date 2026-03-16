@@ -3,8 +3,8 @@
 ## Integrantes
 
 - Dell´Oso Lola (03088/5)
-- Soto Juliana
-- Montagna Federica
+- Soto Juliana (03157/1)
+- Montagna Federica (02849/9)
 
 **Equipo:** CTRL+Panic  
 **Asignatura:** Desarrollo Seguro de Aplicaciones  
