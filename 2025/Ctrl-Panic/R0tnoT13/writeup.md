@@ -6,7 +6,7 @@ para distintos valores de rotación `k`.
 Por un error de logging, se filtran varios de estos valores, junto con:
 
 - los `k` correspondientes  
-- **dos bits conocidos del estado** (no los vi pero usé `1` y `0` porque parece que es lo más normal)  
+- **dos bits conocidos del estado** (no los encontramos, pero usamos `1` y `0` porque es lo más normal en este tipo de retos)  
 - un **ciphertext cifrado usando el estado**
 
 El objetivo es **reconstruir `S` y recuperar el mensaje cifrado**.
