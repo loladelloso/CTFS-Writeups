@@ -1,4 +1,4 @@
-## 1. Análisis del Problema
+## Análisis del Problema
 
 El desafío presentaba un **servicio de autenticación basado en un esquema de desafío-respuesta (Challenge-Response)**.  
 El objetivo era obtener acceso como el usuario **Administrator**.
@@ -31,7 +31,7 @@ Una función de verificación que utiliza un **XOR acumulativo** entre:
 
 ---
 
-## 2. Identificación de Vulnerabilidades
+## Identificación de Vulnerabilidades
 
 ### A. Hardcoded Secret (Insecure Storage)
 
@@ -70,7 +70,7 @@ provided = expected ⊕ mask
 
 ---
 
-## 3. Estrategia de Resolución (Exploit)
+## Estrategia de Resolución (Exploit)
 
 Para resolver el reto se desarrolló un **script en Python** que realiza los siguientes pasos.
 
